@@ -1,0 +1,21 @@
+.grandparent {
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+    #main-header {
+        /* margin: 0; */
+        border: 2px solid gold;
+
+    }
+
+    .intro-text {
+        /* margin: 0; */
+        border: 2px solid gold;
+        width: 40em;
+        font-size: 1.2rem;
+    }
+    
